@@ -6,9 +6,10 @@
       "code": "hl7-eu",
       "name": "HL7 Europe Terminology Server",
       "access_info": "Open",
-      "url": "http://tx.hl7europe.org",
+      "url": "http://tx.hl7europe.eu",
       "authoritative": [
-        "http://hl7europe.org/fhir/terminology/ehdsi*"
+        "http://hl7europe.org/fhir/terminology/ehdsi*",
+        "http://terminology.ehdsi.eu/ValueSet*"
       ],
       "authoritative-valuesets": [
         "http://hl7europe.org/fhir/terminology/ehdsi/ValueSet*",
@@ -18,6 +19,10 @@
         {
           "version": "R4",
           "url": "http://tx.hl7europe.eu/r4"
+        },
+        {
+          "version": "R5",
+          "url": "http://tx.hl7europe.eu/r5"
         }
       ]
     }
