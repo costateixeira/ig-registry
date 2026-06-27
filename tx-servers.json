@@ -32,7 +32,7 @@
       "code": "hl7-be",
       "name": "Federal Public Service Health, Food Chain and Environment Terminology Services",
       "authority": "Published by Federal Public Service Health, Food Chain and Environment Belgium / eHealth Platform Belgium",
-      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-be-tx-servers.json"
+      "url": "https://raw.githubusercontent.com/costateixeira/ig-registry/refs/heads/preview/hl7-be-tx-servers.json"
     },
     {
       "code": "hl7-eu",
